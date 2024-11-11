@@ -52,7 +52,6 @@ public class restApi {
  public static void main(String []args) throws ParseException, IOException {
 	 int discountedPrice =getDiscountedPrice(74002314);
 	 System.out.println(discountedPrice);
-	 MultipartFile 
 	 
  }
 }
